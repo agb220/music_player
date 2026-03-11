@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "I Got Summer On My Mind",
+    "artist": "Elli Eli",
+    "src": "/audio/JJ - Still (I Got Summer On My Mind) [FORTELLA 2022 Remix].mp3",
+    "cover": "/images/tracks/i got summer....png",
+    "color": "#7C3AED"
+  },
+  {
+    "id": 2,
+    "title": "Summertime Sadness",
+    "artist": "Lana Del Rey",
+    "src": "/audio/1691510526_lana-del-rey-summertime-imanbek-remix.mp3",
+    "cover": "/images/tracks/summertime.png",
+    "color": "#7C3AED"
+  },
+  {
+    "id": 3,
+    "title": "Look At Sky",
+    "artist": "Osman",
+    "src": "../audio/OsMan_-_Look_At_The_Sky_(SkySound.cc).mp3",
+    "cover": "/images/tracks/osman.png",
+    "color": "#7C3AED"
+  },
+  {
+    "id": 4,
+    "title": "Весна",
+    "artist": "Воплі Відоплясова",
+    "src": "../audio/Воплi Вiдоплясова - Весна.mp3",
+    "cover": "/images/tracks/vesna.png",
+    "color": "#7C3AED"
+  }
+]
