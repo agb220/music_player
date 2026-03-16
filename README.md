@@ -16,4 +16,4 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-link to real:
+link to real: https://portfolio-rho-ebon-1z3w0d4rtk.vercel.app/
